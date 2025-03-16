@@ -1,8 +1,7 @@
 ## Hi there, I'm Mzyhh :alien:
 
 >Underidoderidoderooderiododoo
-
-© Chinstoll Wurwin
+>© Chinstoll Wurwin
 
 ![Mzyhh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mzyhh&theme=dark&show_icons=true)
 
