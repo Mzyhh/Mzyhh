@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi there, I'm Mzyhh :alien:
 
+>Underidoderidoderooderiododoo
+
+© Chinstoll Wurwin
+
+![Mzyhh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mzyhh&theme=dark&show_icons=true)
+
+![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mzyhh&theme=dark&hide=jupyter%20notebook&langs_count=10)
 <!--
 **Mzyhh/Mzyhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
