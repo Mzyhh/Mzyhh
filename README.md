@@ -1,6 +1,6 @@
-## Hi there, I'm Mzyhh :alien:
+## Hi there, I'm Grigory :alien:
 
-> i use arch btw.
+> and i use arch btw.
 
 ![Mzyhh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mzyhh&theme=dark&show_icons=true)
 
